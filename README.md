@@ -1,0 +1,2 @@
+# Simulador-Clue-Medieval-
+Hace unos días, en una noche lluviosa ocurrió una terrible tragedia en una importante ciudad medieval, un famoso burgués, Mr. Wright, fue asesinado en mitad de la noche y no se sabe quién ha sido el responsable. Existen 5 sospechosos que pudieron haber cometido el delito. Tu objetivo como monje-detective es encontrar quién es el asesino, con qué arma lo hizo y en qué lugar.
